@@ -6,3 +6,4 @@ Those files are the homework from Machine Learning and Deep Learning, basic know
 - HW3: Calculate the SVM hyperplane and its margin / Using Adaboost to update the related parameters / Plot the training and testing score. (r10521804_hw3_p1-p3.pdf)
 - HW4: Perceptron model to evaluate corresponding weight.
 - HW5: Calculating the forward backward propagation.
+- HW6: Image filtering and create Cifar model for image recognition.
